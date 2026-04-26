@@ -52,10 +52,10 @@ Drag and drop both imported **ModuleScripts** into the **Plugins** folder.
 
 Your structure should look similar to this:
 
-Basic Admin Essentials
-└── Plugins
-    ├── Promote Plugin
-    └── Demote Plugin
+Basic-Admin-Essentials/
+├── Plugins/
+│   ├── Promote-Plugin/
+│   └── Demote-Plugin/
 
 ---
 ## That's all!
