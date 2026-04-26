@@ -14,6 +14,7 @@ These plugins extend your **Basic Admin** by connecting it to RankGun, allowing 
 - Set a user to your desired rank (!! COMING SOON !! )
 
 ---
+> You can also get this from the Roblox Creator Store: 
 
 #  Installation Guide
 
