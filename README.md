@@ -58,7 +58,7 @@ Your structure should look similar to this:
     
     ├── PromotePlugin
     
-    └── DemotePlugin
+    ├── DemotePlugin
 
 ---
 ## That's all!
