@@ -59,4 +59,4 @@ Your structure should look similar to this:
 
 ---
 ## That's all!
-I hope you enjoy using my plugins. Feedback is always appreciated. If you find any bugs, please contact me: [![Discord](https://shields.io)](https://discord.com/users/1463334364560494684)
+I hope you enjoy using my plugins. Feedback is always appreciated. If you find any bugs, please contact me via [Discord](https://discord.com/users/1463334364560494684).
