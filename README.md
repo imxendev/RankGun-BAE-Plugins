@@ -21,7 +21,8 @@ Follow these steps carefully to ensure everything works correctly.
 
 ## 1. Download the Files
 Start by downloading all provided plugin files.  
-Make sure you keep them in an easy-to-find location on your computer. Please unzip the contents.
+Make sure you keep them in an easy-to-find location on your computer. 
+**BE SURE TO UNZIP**
 
 ---
 
