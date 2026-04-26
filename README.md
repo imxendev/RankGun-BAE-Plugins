@@ -1,11 +1,11 @@
-# 🧩 Basic Admin Plugins for RankGun
+#  Basic Admin Plugins for RankGun
 
 > **RankGun** is a secure and easy-to-use Roblox group management and automation system.  
 > It helps you manage rank-ups, staff permissions, and member activity without needing complicated bots or external infrastructure.
 
 ---
 
-# 📦 What These Plugins Do
+#  What These Plugins Do
 
 These plugins extend your **Basic Admin** by connecting it to RankGun, allowing you to:
 
@@ -15,7 +15,7 @@ These plugins extend your **Basic Admin** by connecting it to RankGun, allowing 
 
 ---
 
-# ⚙️ Installation Guide
+#  Installation Guide
 
 Follow these steps carefully to ensure everything works correctly.
 
