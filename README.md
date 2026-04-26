@@ -14,7 +14,6 @@ These plugins extend your **Basic Admin** by connecting it to RankGun, allowing 
 - Set a user to your desired rank (!! COMING SOON !! )
 
 ---
-> You can also get this from the Roblox Creator Store: 
 
 #  Installation Guide
 
@@ -22,7 +21,7 @@ Follow these steps carefully to ensure everything works correctly.
 
 ## 1. Download the Files
 Start by downloading all provided plugin files.  
-Make sure you keep them in an easy-to-find location on your computer.
+Make sure you keep them in an easy-to-find location on your computer. Please unzip the contents.
 
 ---
 
@@ -35,7 +34,7 @@ Launch **Roblox Studio** and open the experience (game) where you want to instal
 Once inside your place:
 
 1. Click **File** in the top-left corner of Roblox Studio  
-2. Select **Import Roblox Model**  
+2. Select **Import**  
 3. Locate and import **both plugin script files**
 
 ---
