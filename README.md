@@ -34,8 +34,8 @@ Launch **Roblox Studio** and open the experience (game) where you want to instal
 Once inside your place:
 
 1. Click **File** in the top-left corner of Roblox Studio  
-2. Select **Import**  
-3. Locate and import **both plugin script files**
+2. Select **Import Roblox Model**  
+3. Locate and import **the Roblox model**
 
 ---
 
@@ -48,7 +48,7 @@ In your Explorer panel:
 ---
 
 ## 5. Add the Modules
-Drag and drop both imported **ModuleScripts** into the **Plugins** folder.
+Ungroup the RankGun Basic Admin Plugin Model. Drag the **ModuleScripts** into the **Plugins** folder.
 
 Your structure should look similar to this:
 
