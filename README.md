@@ -50,6 +50,8 @@ In your Explorer panel:
 ## 5. Add the Modules
 Drag and drop both imported **ModuleScripts** into the **Plugins** folder.
 
+Your structure should look similar to this:
+
 Basic Admin Essentials
 └── Plugins
     ├── Promote Plugin
